@@ -41,6 +41,28 @@ I graduated from the department of chemistry, Southern University of Science and
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Carbon Energy, 2024</div><img src='images/Carbon Energy-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Metal–N4 model single‐atom catalyst with electroneutral quadri‐pyridine macrocyclic ligand for CO2 electroreduction](https://onlinelibrary.wiley.com/doi/10.1002/cey2.506)
+
+Jianzhao Peng, Yinlong Li, **Yaoti Cheng**, Jun Gu*
+
+- Single atom catalyst, CO2RR. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catalysis, 2024</div><img src='images/ACS Catalysis-2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Edge Site Co−Nx Model Single-Atom Catalysts for CO2 Electroreduction](https://pubs.acs.org/doi/10.1021/acscatal.4c02079?ref=PDF)
+
+Qiwei Lang, Guoxian Gu, **Yaoti Cheng**, Xumu Zhang*
+
+- Asymmetric hydrogenation. 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduating Graduate Student of Department of Chemistry, Southern University of Science and Technology
