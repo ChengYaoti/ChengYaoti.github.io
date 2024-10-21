@@ -41,18 +41,18 @@ I graduated from the department of chemistry, Southern University of Science and
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduating Graduate Student of Department of Chemistry, Southern University of Science and Technology
+- *2023.12* Outstanding Graduate Student of Southern University of Science and Technology in 2022-2023 academic year
+- *2019.04* The Third-class scholarship of SUSTech(Southern University of Science and Technology)
+- *2015.12* Freshman Scholarship of SUSTech(Southern University of Science and Technology)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - now*    , Visiting student,University of Science and Technology of China, Hefei. 
+- *2021.09 - 2024.06*, Master, Southern University of Science and Technology, Shenzhen.
+- *2018.07 - 2018.09*, Exchange student, Stony Brook University, New York.
+- *2015.09 - 2019.06*, Bachelor, Southern University of Science and Technology, Shenzhen.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work
+- *2019.07 - 2021.09*, student affairs secretary, Southern University of Science and Technology, Shenzhen.
