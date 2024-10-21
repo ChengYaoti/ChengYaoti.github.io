@@ -30,7 +30,7 @@ I graduated from the department of chemistry, Southern University of Science and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catalysis, 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catalysis, 2024</div><img src='images/ACS Catalysis-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Edge Site Co−Nx Model Single-Atom Catalysts for CO2 Electroreduction](https://pubs.acs.org/doi/10.1021/acscatal.4c02079?ref=PDF)
