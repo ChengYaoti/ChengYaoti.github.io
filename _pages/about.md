@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am going to pursue my PhD in USYD(University of Sydney) ,in the group of Fengwang Li.
+
 I am now working on the conversion of electrochemical CO2 reduction reaction to multi-carbon product.
+
 I graduated from the department of chemistry, Southern University of Science and Technology with a master’s degree, advised by Jun Gu, and from the Department of chemistry with a bachelor’s degree, advised by Xumu Zhang.
 
 
