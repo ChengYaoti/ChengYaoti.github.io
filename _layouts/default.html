@@ -21,6 +21,12 @@ layout: compress
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
+
+            <!-- 显示 Blog 链接 -->
+            {% if site.author.blog %}
+              <p>Blog: <a href="{{ site.author.blog }}" target="_blank">{{ site.author.blog }}</a></p>
+            {% endif %}
+            
             {{ content }}
           </section>
         </div>
