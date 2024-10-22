@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍🎓 About me
+
 I am going to pursue my PhD in USYD(University of Sydney) ,in the group of Fengwang Li.
 
 I am now working on the conversion of electrochemical CO2 reduction reaction to multi-carbon product.
@@ -53,7 +55,7 @@ Jianzhao Peng, Yinlong Li, **Yaoti Cheng**, Jun Gu*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catalysis, 2028</div><img src='images/ACS Catalysis-2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catalysis, 2018</div><img src='images/ACS Catalysis-2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Highly Enantioselective Synthesis of Chiral γ‑Lactams by RhCatalyzed Asymmetric Hydrogenation](https://pubs.acs.org/doi/10.1021/acscatal.8b00827)
@@ -78,7 +80,7 @@ Jun Gu*, Jianzhao Peng, **Yaoti Cheng**
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2024.06*,Outstanding Graduating Graduate Student of Department of Chemistry, Southern University of Science and Technology
 - *2023.12*,Outstanding Graduate Student of Southern University of Science and Technology in 2022-2023 academic year
 - *2019.04*,The Third-class scholarship of SUSTech(Southern University of Science and Technology)
