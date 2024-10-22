@@ -65,6 +65,18 @@ Qiwei Lang, Guoxian Gu, **Yaoti Cheng**, Xumu Zhang*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Patent, 2022</div><img src='images/Patent-2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ligands,complexes and their applications in electrochemical reactions](http://epub.cnipa.gov.cn/Sw/SwDetail)
+
+Jun Gu*, Jianzhao Peng, **Yaoti Cheng**
+
+**Keywords: Macrocyclic ligand，CO2RR**
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduating Graduate Student of Department of Chemistry, Southern University of Science and Technology
