@@ -68,7 +68,7 @@ Qiwei Lang, Guoxian Gu, **Yaoti Cheng**, Xumu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Patent, 2022</div><img src='images/Patent-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ligands,complexes and their applications in electrochemical reactions](http://epub.cnipa.gov.cn/Sw/SwDetail)
+[Ligands,complexes and their applications in electrochemical reactions](https://ChengYaoti.github.io/documents/CN202211704002.X_配体配合物及在电化学反应中的应用.pdf)
 
 Jun Gu*, Jianzhao Peng, **Yaoti Cheng**
 
